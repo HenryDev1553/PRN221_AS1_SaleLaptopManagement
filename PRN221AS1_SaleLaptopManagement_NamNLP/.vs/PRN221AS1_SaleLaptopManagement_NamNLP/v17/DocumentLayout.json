@@ -1,0 +1,558 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\managewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\managewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AD53AC-8F0B-4781-A6BE-EAB87F406496}|SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_businessobjects\\salelaptopmanagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AD53AC-8F0B-4781-A6BE-EAB87F406496}|SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj|solutionrelative:salelaptop_businessobjects\\salelaptopmanagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AD53AC-8F0B-4781-A6BE-EAB87F406496}|SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_businessobjects\\salelaptop_businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64AD53AC-8F0B-4781-A6BE-EAB87F406496}|SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj|solutionrelative:salelaptop_businessobjects\\salelaptop_businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_daos\\roledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|solutionrelative:salelaptop_daos\\roledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_daos\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|solutionrelative:salelaptop_daos\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_daos\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|solutionrelative:salelaptop_daos\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_daos\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|solutionrelative:salelaptop_daos\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_daos\\categoriesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|solutionrelative:salelaptop_daos\\categoriesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_daos\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0533C845-0AB5-4A17-AFD7-7BAB51646F32}|SaleLaptop_Daos\\SaleLaptop_Daos.csproj|solutionrelative:salelaptop_daos\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_repositories\\interface\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|solutionrelative:salelaptop_repositories\\interface\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_repositories\\interface\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|solutionrelative:salelaptop_repositories\\interface\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_repositories\\interface\\iorderdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|solutionrelative:salelaptop_repositories\\interface\\iorderdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_repositories\\interface\\icategoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|solutionrelative:salelaptop_repositories\\interface\\icategoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_repositories\\interface\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|solutionrelative:salelaptop_repositories\\interface\\iaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\productusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\productusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\orderusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\orderusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\orderusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\orderusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_repositories\\categoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|solutionrelative:salelaptop_repositories\\categoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|solutionrelative:salelaptop_repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AD53AC-8F0B-4781-A6BE-EAB87F406496}|SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_businessobjects\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AD53AC-8F0B-4781-A6BE-EAB87F406496}|SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj|solutionrelative:salelaptop_businessobjects\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AD53AC-8F0B-4781-A6BE-EAB87F406496}|SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AD53AC-8F0B-4781-A6BE-EAB87F406496}|SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj|solutionrelative:salelaptop_businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AD53AC-8F0B-4781-A6BE-EAB87F406496}|SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AD53AC-8F0B-4781-A6BE-EAB87F406496}|SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj|solutionrelative:salelaptop_businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\editproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\editproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\editproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\editproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\editcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\editcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\editcategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\editcategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\productusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\productusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\loginwindown.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\loginwindown.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptop_repositories\\salelaptop_repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5540A491-D2FA-4AA4-B74E-6DB87483D2E3}|SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj|solutionrelative:salelaptop_repositories\\salelaptop_repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\managewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\managewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\categoryusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\categoryusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|c:\\users\\namnlp\\documents\\prn221\\prn221as1_salelaptopmanagement_namnlp\\salelaptopmanagement_namnlp\\loginwindown.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766162DF-DA18-4E50-959C-057AD524CC4C}|SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP.csproj|solutionrelative:salelaptopmanagement_namnlp\\loginwindown.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\ProductUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\ProductUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\ProductUserControl.xaml.cs",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\ProductUserControl.xaml.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:25:39.959Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleLaptopManageDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_BusinessObjects\\SaleLaptopManageDBContext.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_BusinessObjects\\SaleLaptopManageDBContext.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_BusinessObjects\\SaleLaptopManageDBContext.cs",
+              "RelativeToolTip": "SaleLaptop_BusinessObjects\\SaleLaptopManageDBContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:13:06.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDao.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\OrderDao.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Daos\\OrderDao.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\OrderDao.cs",
+              "RelativeToolTip": "SaleLaptop_Daos\\OrderDao.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:12:54.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\Interface\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Repositories\\Interface\\IProductRepo.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\Interface\\IProductRepo.cs",
+              "RelativeToolTip": "SaleLaptop_Repositories\\Interface\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:12:45.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderDetailRepo.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\Interface\\IOrderDetailRepo.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Repositories\\Interface\\IOrderDetailRepo.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\Interface\\IOrderDetailRepo.cs",
+              "RelativeToolTip": "SaleLaptop_Repositories\\Interface\\IOrderDetailRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:12:44.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\ManageWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\ManageWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\ManageWindow.xaml.cs",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\ManageWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAtwDkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:29:57.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\Interface\\IAccountRepo.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Repositories\\Interface\\IAccountRepo.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\Interface\\IAccountRepo.cs",
+              "RelativeToolTip": "SaleLaptop_Repositories\\Interface\\IAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:12:41.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleLaptop_BusinessObjects",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj",
+              "RelativeToolTip": "SaleLaptop_BusinessObjects\\SaleLaptop_BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T16:18:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesDao.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\CategoriesDao.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Daos\\CategoriesDao.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\CategoriesDao.cs",
+              "RelativeToolTip": "SaleLaptop_Daos\\CategoriesDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:45:59.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_BusinessObjects\\Product.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_BusinessObjects\\Product.cs",
+              "RelativeToolTip": "SaleLaptop_BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:50:19.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDao.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\ProductDao.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Daos\\ProductDao.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\ProductDao.cs",
+              "RelativeToolTip": "SaleLaptop_Daos\\ProductDao.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:29:24.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\Interface\\IOrderRepo.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Repositories\\Interface\\IOrderRepo.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\Interface\\IOrderRepo.cs",
+              "RelativeToolTip": "SaleLaptop_Repositories\\Interface\\IOrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:27:55.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailDao.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\OrderDetailDao.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Daos\\OrderDetailDao.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\OrderDetailDao.cs",
+              "RelativeToolTip": "SaleLaptop_Daos\\OrderDetailDao.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:51:40.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleDao.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\RoleDao.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Daos\\RoleDao.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\RoleDao.cs",
+              "RelativeToolTip": "SaleLaptop_Daos\\RoleDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:42:45.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_BusinessObjects\\Category.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_BusinessObjects\\Category.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_BusinessObjects\\Category.cs",
+              "RelativeToolTip": "SaleLaptop_BusinessObjects\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:50:50.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\CategoriesRepo.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Repositories\\CategoriesRepo.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\CategoriesRepo.cs",
+              "RelativeToolTip": "SaleLaptop_Repositories\\CategoriesRepo.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAEwFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:10:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountDao.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\AccountDao.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Daos\\AccountDao.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Daos\\AccountDao.cs",
+              "RelativeToolTip": "SaleLaptop_Daos\\AccountDao.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:34:44.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Repositories\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\ProductRepo.cs",
+              "RelativeToolTip": "SaleLaptop_Repositories\\ProductRepo.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:43:29.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\OrderUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\OrderUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\OrderUserControl.xaml.cs",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\OrderUserControl.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:04:30.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoriesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\Interface\\ICategoriesRepo.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_Repositories\\Interface\\ICategoriesRepo.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\Interface\\ICategoriesRepo.cs",
+              "RelativeToolTip": "SaleLaptop_Repositories\\Interface\\ICategoriesRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:48:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_BusinessObjects\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SaleLaptop_BusinessObjects\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_BusinessObjects\\OrderDetail.cs",
+              "RelativeToolTip": "SaleLaptop_BusinessObjects\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:50:36.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\OrderUserControl.xaml",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\OrderUserControl.xaml",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\OrderUserControl.xaml",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\OrderUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T09:31:09.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\EditProduct.xaml.cs",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\EditProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\EditProduct.xaml.cs",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\EditProduct.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:08:35.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditCategory.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\EditCategory.xaml.cs",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\EditCategory.xaml.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\EditCategory.xaml.cs",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\EditCategory.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:10:37.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditCategory.xaml",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\EditCategory.xaml",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\EditCategory.xaml",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\EditCategory.xaml",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\EditCategory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T09:20:47.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\EditProduct.xaml",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\EditProduct.xaml",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\EditProduct.xaml",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\EditProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T19:59:28.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\ProductUserControl.xaml",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\ProductUserControl.xaml",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\ProductUserControl.xaml",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\ProductUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T21:44:13.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginWindown.xaml",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\LoginWindown.xaml",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\LoginWindown.xaml",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\LoginWindown.xaml",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\LoginWindown.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T08:31:37.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SaleLaptop_Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj",
+              "RelativeDocumentMoniker": "SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj",
+              "RelativeToolTip": "SaleLaptop_Repositories\\SaleLaptop_Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T02:17:52.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManageWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\ManageWindow.xaml",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\ManageWindow.xaml",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\ManageWindow.xaml",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\ManageWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T09:13:59.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\CategoryUserControl.xaml",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\CategoryUserControl.xaml",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\CategoryUserControl.xaml",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\CategoryUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T08:07:43.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginWindown.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\LoginWindown.xaml.cs",
+              "RelativeDocumentMoniker": "SaleLaptopManagement_NamNLP\\LoginWindown.xaml.cs",
+              "ToolTip": "C:\\Users\\namnlp\\Documents\\PRN221\\PRN221AS1_SaleLaptopManagement_NamNLP\\SaleLaptopManagement_NamNLP\\LoginWindown.xaml.cs",
+              "RelativeToolTip": "SaleLaptopManagement_NamNLP\\LoginWindown.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:59:12.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
